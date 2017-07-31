@@ -3,7 +3,6 @@
 // amg
 /*
  
- This is an integer ascii Mandelbrot generator
  */
     left_edge   = -420;
     right_edge  =  300;
